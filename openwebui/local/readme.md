@@ -87,6 +87,8 @@ It’s crucial to set the OpenAI API key or other LLMs providers key here. If yo
 
 ## References
 
+[open-webui](https://github.com/open-webui/open-webui)
+
 [Ollama website](https://ollama.com/)
 
 [Ollama models](https://ollama.com/search)
